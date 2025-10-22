@@ -1,5 +1,6 @@
 # 🎬 Netflix Dataset Analysis  
 
+
 ## 📘 Project Overview  
 This project, **“Netflix Dataset Analysis – Content Trends Analysis for Strategic Recommendations,”** focuses on exploring Netflix’s content library to uncover insights about trends in content type, genre, country, and release year.  
 Through data cleaning, visualization, and analysis, the project provides **data-driven recommendations** to support strategic decision-making for content planning and audience engagement.  
